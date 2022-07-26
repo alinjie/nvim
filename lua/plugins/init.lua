@@ -1,0 +1,8 @@
+require("plugins.packer")
+require('plugins.telescope')
+require('plugins.nerdtree')
+require("plugins.prettier")
+require("plugins.vimcommentary")
+require("plugins.lspconfig")
+require("plugins.toggleterm")
+require("plugins.autopairs")
